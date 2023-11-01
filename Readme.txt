@@ -25,7 +25,3 @@ Please run demo_MUSDP to obtain the prediction resutls of our approaches.
 Our running environment is Python 3.10, Ubuntu 22.04 operating system.
 %%%
 
-
-%%% NOTE %%%
-The software is free for academic use only, and shall not be used, rewritten, or adapted as the basis of a commercial product without first obtaining permission from the authors. The authors make no representations about the suitability of this software for any purpose. It is provided "as is" without express or implied warranty.
-
