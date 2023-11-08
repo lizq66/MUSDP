@@ -1,5 +1,5 @@
 This code is an implementation of the paper, which is described in:
-Zhiqiang Li, Hongyu Zhang, Xiao-Yuan Jing, Jingwen Niu. 
+Zhiqiang Li, Hongyu Zhang, Xiao-Yuan Jing, Jingwen Niu, Wangyang Yu, Yueyue Liu. 
 "Unsupervised Software Defect Prediction through Multi-view Clustering" , 2023. 
 It has submitted to the Journal of IEEE Transactions on Software Engineering under review.
 
